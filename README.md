@@ -28,7 +28,7 @@ This repository contains code for a survey tool developed with Flask, MongoDB, a
 
 ## Data Processing
 
-The `user.py` file contains a Python class named `User` for representing user data. It also includes functions for storing user data in CSV format.
+The `.py` file contains a Python class for representing user data. It also includes functions for storing user data in CSV format.
 
 ## MongoDB Configuration
 
