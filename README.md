@@ -1,4 +1,6 @@
-# Survey Tool for Data Collection and Analysis
+# Flask Healthcare Application
+
+## Survey Tool for Data Collection and Analysis
 
 This repository contains code for a survey tool developed with Flask, MongoDB, and Python for data analysis.
 
