@@ -24,7 +24,7 @@ This repository contains code for a survey tool developed with Flask, MongoDB, a
 2. Run the Flask application by executing the following command:
 
 
-3. Access the application in your web browser at http://localhost:5000.
+3. Access the application in your web browser 
 
 ## Data Processing
 
